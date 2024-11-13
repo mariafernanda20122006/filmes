@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(67, 56, 138);
+    text-align: center;
+}
+
+.titulo{
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
